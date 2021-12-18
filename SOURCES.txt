@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/quickcalc/__init__.py
+src/quickcalc/example.py
+src/quickcalc.egg-info/PKG-INFO
+src/quickcalc.egg-info/SOURCES.txt
+src/quickcalc.egg-info/dependency_links.txt
+src/quickcalc.egg-info/top_level.txt
